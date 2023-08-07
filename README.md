@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm Joey 👋🏾 👩🏾‍💻
+
+Langua and tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
+
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeybervin&layout=compact&theme=white-gray)
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,node,express,python,tailwind,bootstrap,mongodb,firebase,figma,illustrator,)](https://skillicons.dev)
 
 <!--
 **Joeybervin/Joeybervin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
