@@ -1,7 +1,10 @@
 ### Hi I'm Joey 👋🏾 👩🏾‍💻
 
 Langua and tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nodejs,redux,nextjs,express,python,tailwind,bootstrap,vite,vercel,mongodb,firebase,git,figma,illustrator,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nodejs,redux,express,python,tailwind,bootstrap,mongodb,firebase,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,render,vite,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,illustrator,ae)](https://skillicons.dev)
+
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeybervin&layout=compact&theme=black-gray)
 
