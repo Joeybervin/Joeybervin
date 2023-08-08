@@ -1,10 +1,14 @@
-### Hi I'm Joey 👋🏾 👩🏾‍💻
 
-Langua and tools
+<h1 align="center">Hi I'm Joey 👋🏾 👩🏾‍💻</h1>
+<h3 align="center">A passionate fullstack developer from France</h3>
+<h3 align="center">🎓 ESGI - 3rd year student in web engineering.</h3>
+
+## Languages & Frameworks & Tools
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nodejs,redux,express,python,tailwind,bootstrap,mongodb,firebase,git)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nextjs,render,vite,vercel)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=figma,illustrator,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,render,vite,vercel,figma,illustrator,ae&perline=4)](https://skillicons.dev)
 
+## Languages & Frameworks & Tools
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeybervin&layout=compact&theme=black-gray)
 
@@ -18,9 +22,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
