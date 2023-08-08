@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi I'm Joey 👋🏾 👩🏾‍💻</h1>
-<h6 align="center">A passionate fullstack developer from France</h6>
+<h5 align="center">A passionate fullstack developer from France</h5>
 <h6 align="center">🎓 ESGI - 3rd year student in web engineering.</h6>
 
 ## Languages & Frameworks & Tools
@@ -8,11 +8,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nodejs,redux,express,nextjs,vite,python,tailwind,bootstrap,mongodb,firebase,vercel,git" />
-     <img src="https://skillicons.dev/icons?i=figma,illustrator,ae" />  
+    <img src="https://skillicons.dev/icons?i=figma,illustrator,ae" />  
   </a>
 </p>
 
-## Languages & Frameworks & Tools
+## Most used languages
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeybervin&layout=compact&theme=black-gray)
 
