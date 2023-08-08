@@ -3,7 +3,11 @@
 <h3 align="center">A passionate fullstack developer from France</h3>
 <h3 align="center">🎓 ESGI - 3rd year student in web engineering.</h3>
 
-## Languages & Frameworks & Tools
+## ✨ Languages & Frameworks & Tools ✨
+
+<p align="center">
+  <img src="[https://picsum.photos/460/300](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nodejs,redux,express,python,tailwind,bootstrap,mongodb,firebase,git)">
+</p>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nodejs,redux,express,python,tailwind,bootstrap,mongodb,firebase,git)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nextjs,render,vite,vercel,figma,illustrator,ae&perline=4)](https://skillicons.dev)
