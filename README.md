@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi I'm Joey 👋🏾 👩🏾‍💻</h1>
 <h5 align="center">A passionate fullstack developer from France</h5>
-<h6 align="center">🎓 ESGI - 3rd year student in web engineering.</h6>
+<h6 align="center">🎓 ETNA - 3rd year student in web engineering.</h6>
 
 ## Languages & Frameworks & Tools
 
