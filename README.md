@@ -7,10 +7,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,sass,react,nodejs,redux,express,nextjs,vite,python" />
-    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,sass,react,nodejs,redux,express,vite,python" />
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,docker" />
     <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vercel,git" />  
-    <img src="https://skillicons.dev/icons?i=figma,illustrator,ae" />  
+    <img src="https://skillicons.dev/icons?i=figma,illustrator" />  
   </a>
 </p>
 
