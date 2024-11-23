@@ -3,7 +3,7 @@
 <h5 align="center">A passionate fullstack developer from France</h5>
 <h6 align="center">🎓 ETNA - 3rd year student in web engineering.</h6>
 <p align="center">
-  📄 <a href="[https://raw.githubusercontent.com/<votre-utilisateur>/<nom-du-depot>/main/cv.pdf](https://github.com/Joeybervin/Joeybervin/blob/main/CV%20BERVIN%20Joey%20-%20d%C3%A9veloppeuse%20fullstack.pdf" target="_blank">Link to my CV</a>
+  📄 <a href="https://github.com/Joeybervin/Joeybervin/blob/main/CV%20BERVIN%20Joey%20-%20d%C3%A9veloppeuse%20fullstack.pdf" target="_blank">Link to my CV</a>
 </p>
 
 ## Languages & Frameworks & Tools
