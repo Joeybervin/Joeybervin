@@ -17,12 +17,14 @@
   </a>
 </p>
 
+## Roadmap
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6807a39f85af3470eb2ddd84?variant=dark&roadmaps=full-stack%2Capi-design%2Cdocker%2Cdesign-system)](https://roadmap.sh)
 
 
 ## Most used languages
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joeybervin&layout=compact&theme=black-gray)
-
 
 
 <!--
